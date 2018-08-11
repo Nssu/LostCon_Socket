@@ -1,0 +1,18 @@
+{
+  "name": "lostcon",
+  "version": "1.0.0",
+  "description": "namyangju hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nssu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "html": "^1.0.0",
+    "npm": "^6.3.0",
+    "socket.io": "^2.1.1",
+    "supervisor": "^0.12.0"
+  }
+}
